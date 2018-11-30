@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Reptiles",
-    "Amphibians"
+    "Reptiles & Amphibians",
+    "Insects", 
+    "Plants"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +36,4 @@ weight = 5
 
 # About Me
 
-I am a student at the University of Mons, Belgium. 
+I am a student in Biology at the University of Mons, I'm curious about many things and especially about how life works. And I think theses answers lies in Biology.

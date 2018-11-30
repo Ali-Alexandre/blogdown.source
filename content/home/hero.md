@@ -27,7 +27,7 @@ weight = 3
 
 Ali-Alexandre Hassan
 <br>
-<small>Actually in 2nd Biology class</small>
+<small>Currently in 2nd Biology class</small>
 <br><br>
 
 <script type="text/javascript">
