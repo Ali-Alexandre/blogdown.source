@@ -6,7 +6,7 @@ date = "2018-09-24"
 title = "Why bats are so good at spreading viruses"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "The key role of Bats in the spreadings of epidemias."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bat.jpg"
@@ -23,7 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
+image = "Batt.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
-Zika, Marbrugh, Ebola, a lot of epidemics were traced back to bats 
+SARS, Marbrugh, Ebola, a lot of epidemics were traced back to bats.  
+
